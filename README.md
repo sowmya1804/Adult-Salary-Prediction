@@ -1,1 +1,1 @@
-**Project Title: Adult-Salary-Prediction**
+# Project Title: Adult-Salary-Prediction
